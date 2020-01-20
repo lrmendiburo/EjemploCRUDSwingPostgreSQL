@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CRUDJavaSwingPostgreSQL">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/CRUDJavaSwingPostgreSQL.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
